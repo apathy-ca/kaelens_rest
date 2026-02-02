@@ -6,13 +6,13 @@ He had traveled for weeks to reach this place, sent to retrieve the lost chronic
 
 Kaelen gazed at the monastery ruins nestled in the shadows below, half-swallowed by moss and time. He had faced worse on the road—bandits, mountain storms, even a troll in the deep woods that had nearly crushed his ribs. But the old warnings about this place, whispered by nervous villagers, spoke of something different. Something that made even veteran knights uneasy. He gripped his lance. The sun dipped below the horizon, painting the sky in hues of blood and amber. For Sir Kaelen, it seemed a straightforward task: retrieve the Chronicle, return to the Citadel, and let the scholars decipher its secrets. He had no way of knowing this simple mission would change everything.
 
-![The Last Moment](source/Gemini_Generated_Image_v3zpnrv3zpnrv3zp.png)
+![The Last Moment](images/the-last-moment.png)
 
 ## The Guardians
 
 The moon cast long shadows through the crumbling arches of the forgotten monastery as Sir Kaelen, his crimson cape billowing, finally reached the inner sanctum. He had come seeking the lost chronicle of his order, but instead, he found its eternal guardians. From the swirling mist and cold air, three spectral figures materialized, their armor glowing with an eerie, translucent light.
 
-![The Eternal Guardians](source/Gemini_Generated_Image_i29nli29nli29nli.png)
+![The Eternal Guardians](images/the-eternal-guardians.png)
 
 A knight bathed in sapphire energy, the apparent leader, lunged first, its spectral blade clashing with Kaelen's steel in a shower of cold sparks. Kaelen parried, the sheer force of the ethereal blow rattling his teeth. To his left and right, two more phantoms closed in, their silent, hollow gazes fixed on him. An emerald spirit with a massive halberd moved to flank him on the left, while on his right, a knight radiating pale argent light hefted its own halberd. Beyond the spectral figures, his warhorse reared in terror, its iron shoes striking the ancient stone. Outnumbered and fighting foes who felt no pain, Kaelen gritted his teeth, his every movement a desperate dance for survival against the relentless spirits of the past.
 
@@ -256,7 +256,7 @@ Kaelen died on a Tuesday, in the rain. There were no speeches. His lungs simply 
 
 They buried him on the hill overlooking their settlement. They had no masons, so they piled river rocks. They had no priest, so they planted his sword—the steel pitted and scarred—and rested his helm upon it.
 
-![Kaelen's Rest](source/Gemini_Generated_Image_b2grvhb2grvhb2gr.png)
+![Kaelen's Rest](images/kaelens-rest.png)
 
 They couldn't read the Chronicle he carried. They buried it with him. They didn't need the book. They had the man.
 
@@ -372,4 +372,4 @@ They are not what Kaelen was—smaller, changed by the vast sweep of time. They 
 
 They don't know his name. But they remember the Watch. And because they remember, the Cairn remains.
 
-![The Eternal Watch](source/Gemini_Generated_Image_rhqbknrhqbknrhqb.png)
+![The Eternal Watch](images/the-eternal-watch.png)
